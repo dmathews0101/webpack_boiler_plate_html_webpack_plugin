@@ -1,0 +1,17 @@
+{
+  "name": "webpack-boiler-plate",
+  "version": "1.0.0",
+  "description": "webpack project boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "prod": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.0",
+    "html-webpack-plugin": "^2.26.0"
+  },
+  "dependencies": {}
+}
